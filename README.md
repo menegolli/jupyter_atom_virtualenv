@@ -10,7 +10,7 @@ Atom support is given by [hydrogen](https://github.com/nteract/hydrogen).
 
 
 
-A brief guide to create a VENV from scratch (instructions taken from [here](https://medium.com/@rahul3012_37725/a-very-basic-guide-to-python-virtual-environments-a53d1e191490)) and to include support for interactive kernels:
+A brief guide to create a VENV from scratch (instructions taken from [here](https://medium.com/@rahul3012_37725/a-very-basic-guide-to-python-virtual-environments-a53d1e191490)) and to include support for interactive kernels (instructions taken from [here](https://janakiev.com/blog/jupyter-virtual-envs/)):
 ```bash
 #select directory where you want venv to be stored
 cd /path/to/venv/directory
