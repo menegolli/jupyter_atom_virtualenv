@@ -16,11 +16,9 @@ A brief guide to create a VENV from scratch (instructions taken from [here](http
 cd /path/to/venv/directory
 #I prefer ~/.venvs, others inside project folder
 
-#install needed packages
-pip install virtualenv
+#creating the environment
+python3 -m venv <my_env_name>
 
-#creating the environment ONLY the first time
-virtualenv <my_env_name>
 #it is suggested to create it inside a hidden folder in your home directory, like /home/user/.venvs
 
 #activating the environment
